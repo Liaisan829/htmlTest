@@ -50,7 +50,7 @@ button{
 }
 
 .see-password{
-    background: url("images/eye.jpg") no-repeat;
+    background: url("htmlTest/images/eye.jpg") no-repeat;
     float: right;
     padding-top: 18px;
     padding-bottom: 18px;
